@@ -1,0 +1,9 @@
+<html>
+<block>
+<div>
+<ul>
+<li>first item created on remote</li>
+</ul>
+</div>
+</block>
+</html>
